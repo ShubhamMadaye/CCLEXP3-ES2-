@@ -6,7 +6,9 @@ npm ERR! code EACCES
 npm ERR! syscall mkdir
 npm ERR! path /home/ubuntu/CCLEXP3-ES2-/node_modules
 npm ERR! errno -13
-ubuntu@ip-172-31-18-0:~/CCLEXP3-ES2-$ sudo chown -R ubuntu:ubuntu ~/CCLEXP3-ES2-
+
+
+## ubuntu@ip-172-31-18-0:~/CCLEXP3-ES2-$ sudo chown -R ubuntu:ubuntu ~/CCLEXP3-ES2-
 ubuntu@ip-172-31-18-0:~/CCLEXP3-ES2-$ npm i
 
 added 65 packages, and audited 66 packages in 2s
